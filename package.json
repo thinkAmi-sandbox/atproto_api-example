@@ -1,0 +1,12 @@
+{
+  "name": "atproto_api-example",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.12.8"
+  }
+}
